@@ -6,7 +6,7 @@ Introduction and Preparation
 ----
 
 For my project, I will analyze the Covid-19 vaccination data across different countries. Exploratory analysis including summary statistics characterization and data visualization will be performed on the data.
-To analyze the data, you would need GNU Make tool (can be installed by Xcode) as well as `R` version later than 4.0.`R` package 'renv' is required for package management. All required `R` packages are within the renv file.
+To analyze the data, you would need `GNU Make` tool (can be installed by `Xcode` tool) as well as `R` version later than 4.0.`R` package 'renv' is required for package management. All required `R` packages are within the renv file.
 
 ### Clone the project to local
 
