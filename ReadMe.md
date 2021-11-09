@@ -45,7 +45,7 @@ You can run the command below under the project directory
 make report
 ```
 
-This will create a fill named Vacc_report.html in the same folder that contain the results, which can be open with:
+This will create a file named Vacc_report.html in the same folder that contain the results, which can be open with:
 ```
 open ./Rmd_Report/Vacc_report.html
 ```
