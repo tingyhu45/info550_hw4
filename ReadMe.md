@@ -47,6 +47,6 @@ make report
 
 This will create a fill named Vacc_report.html in the same folder that contain the results, which can be open with:
 ```
-open ./Rmd_Report/report.html
+open ./Rmd_Report/Vacc_report.html
 ```
 
